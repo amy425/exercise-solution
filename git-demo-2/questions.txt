@@ -1,0 +1,5 @@
+// We have the teaching Team,
+// 1. Write a program to display all members with letter 'o';  Display one name on one line.
+// 2. Convert all names in the array to capital letters;
+// 3. Write a program to find the longest member name and display it.  If there are ties, display the first.
+// 3.1: If there are ties, display all.
